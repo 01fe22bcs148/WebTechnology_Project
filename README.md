@@ -1,1 +1,1 @@
-# Surplush Food Management System
+# Surplus Food Management System
